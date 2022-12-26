@@ -93,3 +93,7 @@ for i,element in enumerate(hauteur):
 
 En regardant les images que nous avons recrée, on ramarque un texte sur l'une d'entre-elle : 
 
+![flag](https://github.com/FastHorn/CTF-Write-Ups/blob/main/CTF%20de%20l'Avent/Brute-force%20IMAGEination/flag174.png)
+
+On peut donc lire notre flag, ce qui nous donne :
+CATF{174_bru73f0rc3_15_7h3_k3y}
