@@ -91,7 +91,7 @@ for i,element in enumerate(hauteur):
     im.save(f'flag{element}.png')
 ```
 
-En regardant les images que nous avons recrée, on ramarque un texte sur l'une d'entre-elle : 
+En regardant les images que nous avons recréé, on ramarque un texte sur l'une d'entre-elle : 
 
 ![flag](https://github.com/FastHorn/CTF-Write-Ups/blob/main/CTF%20de%20l'Avent/Brute-force%20IMAGEination/flag174.png)
 
