@@ -1,4 +1,4 @@
-# Brute-force Introduction
+# Socket de Noël
 **Points : 350**
 
 **Difficulté : Facile**
