@@ -66,7 +66,7 @@ while True:
     s.sendall((str(total) + '\n').encode())
 ```
 On peut observer par la suite dans notre console :
-
+![result](https://github.com/FastHorn/CTF-Write-Ups/blob/main/CTF%20de%20l'Avent/Socket%20de%20No%C3%ABl/result.PNG)
 
 
 
