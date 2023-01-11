@@ -23,6 +23,7 @@ Ex : Si le premier caractère du flag est dans la branche1, leaf1, needle1 et qu
 
 ## Résolution
 
+On nous fournis un dossier 'tree', contenant 50 dossier 'branch', contenant eux-même chacun 50 dossier 'leaf', contenant eux aussi 50 dossier 'needle'. Dans chaque dossier 'needle', nous pouvons retrouver un ficher contenant des caractères.
 Grâce au format du flag, on sait que les caractères CATF{} devraient apparaitre en clair après être décodé du morse, comme l'on sait que le message est compris entre les crochets et que ces derniers n'ont pas d'encodage en morse, on va les utiliser pour trouver l'emplacement de notre message. On va donc créer un premier script qui va nous permettre de trouver ces positions, pour cela, on va lire chaque fichier et regarder si l'on y trouve '{' ou '}'.
 
 ```
